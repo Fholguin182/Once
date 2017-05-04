@@ -1,0 +1,78 @@
+body{background-color: #FFFFFF;
+color: #000000
+;    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;}
+
+.container-fluid{    padding: 100px 30px 30px 30px;}
+
+.heroImage{		height: 650px;}
+
+.aboutImage{	height: 312px ;
+				margin-right: auto;
+    			margin-left: auto;}
+
+nav {height: 650px;
+text-align: center;
+}
+
+
+
+.signiture{text-align: right;}
+
+.menu-pane{   text-align: right;
+	padding-top: 10px;
+	padding-right: 10px;
+	 height: 500px;
+    position: ;}
+
+ol{padding-top: 2px;
+}
+
+ol .top{margin-top: 0px;}
+
+footer {background-color: #ffffff;
+	color: #000000;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    text-align: left;
+    padding-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.aboutPhoto{   	position: relative;
+				 display: inline;
+   				 float: left;}
+
+.col-xs-3 {    position: relative;
+	display: block;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+    
+}   
+
+a:hover { color: grey;
+    text-decoration-line: none;
+}
+
+.col-xs-9{		width: 75%;
+			    float: left;
+			    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px}			
+
+img{position: relative;}	
+
+a{text-decoration-style: none;
+color: #000000;} 
+
+a
